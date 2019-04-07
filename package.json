@@ -40,9 +40,6 @@
       "cordova-plugin-inappbrowser": {},
       "cordova-plugin-code-push": {}
     },
-    "platforms": [
-      "android",
-      "ios"
-    ]
+    "platforms": []
   }
 }
