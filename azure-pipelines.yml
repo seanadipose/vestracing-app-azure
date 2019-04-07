@@ -18,5 +18,4 @@ steps:
 - script: |
     npm install
     npm run build
-    cordova platform add android
   displayName: 'npm install and build'
